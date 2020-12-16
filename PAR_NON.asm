@@ -1,4 +1,5 @@
 ; Simple example
+; ASSEMBLER SIMULATOR  >> http://schweigi.github.io/assembler-simulator/index.html
 ; Writes Hello World to the output
 
 	JMP start
