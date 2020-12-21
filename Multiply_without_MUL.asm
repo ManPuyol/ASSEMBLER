@@ -1,4 +1,4 @@
-JMP inicio
+JMP inicio; CREATED BY MANUEL ORTEGA
 
 byte1: DB 3  
 byte2: DB 3  
